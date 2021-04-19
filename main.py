@@ -9,7 +9,7 @@ print ("                                                       |_|              
 print ("Only you Are Responsable For Your Actions")
 print ("Support Me")
 print ("PayPal: www.paypal.me/hgdhgd0011")
-print ("Discord Server: discord.ggDEQDmnVrbQ")
+print ("Discord Server: discord.gg/DEQDmnVrbQ")
 import requests
 while True:
     try:
