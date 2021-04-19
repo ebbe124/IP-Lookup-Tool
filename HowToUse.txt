@@ -1,0 +1,11 @@
+How To Use main.py:
+1. Open cmd in this folder.
+2. Type: python main.py
+3. Enter the IP and have fun!
+Or rightclick on the main.py and select open with Python
+
+Requirments For main.py:
+Python (Install It On https://www.python.org/downloads/)
+
+
+
